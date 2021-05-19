@@ -1,4 +1,4 @@
-## UW Starbucks Capstone 2021
+## UW Industrial & Systems Engineering x Starbucks Capstone 2021 
 
 For our capstone project, we designed a preliminary system to automatically timestamp actions in a process.
 
